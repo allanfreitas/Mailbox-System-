@@ -1,6 +1,6 @@
 <?php
 
-$body_data = array('name' => 'message_body', 'value' => set_value('message_body'), 'rows' => '5','cols'          => '70');
+$body_data = array('name' => 'message_body', 'value' => set_value('message_body'), 'rows' => '5','cols'  => '70');
 $mailboxtype = "compose";
 
 ?>
